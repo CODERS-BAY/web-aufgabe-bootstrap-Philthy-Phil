@@ -1,0 +1,20 @@
+header {
+    background-image: url('../_img/Home_bg_hero-lg.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 100vh;
+}
+.section-bg {
+    background-image: url('../_img/pricing_spash_desktop.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    height: 75vh;
+}
+
+
+/** sorry ... wusste mir nicht anders zu helfen - wenn wir lernen Sass variablen umzuschreiben mach ichs anders - ;) versprochen ;)  ***/
+.display-4 {
+    font-size: 5vw !important;
+}
